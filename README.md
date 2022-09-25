@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Martonyx
-- 👀 I’m interested in web3 developement
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on web3 developement
-- 📫 How to reach me, Email: martinchukwuneme24@gmail.com
+# Hi there 👋, I’m Martonyx 
 
-<!---
-Martonyx/Martonyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Martonyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martonyx&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martonyx&layout=compact)](https://github.com/Martonyx/github-readme-stats)
